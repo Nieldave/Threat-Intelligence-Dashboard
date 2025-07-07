@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+venv/
+gradio_env/
+.env
+
+# SQLite database and model artifacts
+threats.db
+*.pkl
+
+# Logs
+*.log
+
+# Editor files
+.vscode/
+.idea/
+.DS_Store
